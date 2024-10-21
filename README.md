@@ -16,6 +16,7 @@ Las tecnologías y bibliotecas que se utilizarán incluyen Python, Markdown, Git
 
 ## Contenido
 
+
 - **Ramp-Up:**
 1. Introducción a Python
 2. Markdown para documentación
