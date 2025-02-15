@@ -14,8 +14,6 @@ sqlalchemy = "^2.0.34"
 pydantic = "^2.9.1"
 scikit-learn = "^1.5.2"
 numpy = "^2.1.1"
-matplotlib = "^3.9.2"
-statsmodels = "^0.14.2"
 seaborn = "^0.13.2"
 # pyarrow = "^17.0.0"
 psycopg2 = "^2.9.9"
@@ -34,6 +32,9 @@ openpyxl = "^3.1.5"
 yfinance = "^0.2.50"
 orjson = "^3.10.14"
 scikit-optimize = "^0.10.2"
+matplotlib = "^3.10.0"
+skforecast = "^0.14.0"
+statsmodels = "^0.14.4"
 
 
 [build-system]
