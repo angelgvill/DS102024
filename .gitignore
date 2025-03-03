@@ -175,3 +175,4 @@ mnist.json
 2-DataAnalysis/10-EDA/EDA_Ronald/input/reviews_details.csv
 
 Dataset/
+*.python-version
