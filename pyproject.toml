@@ -38,6 +38,7 @@ statsmodels = "^0.14.4"
 pyarrow = "^19.0.1"
 fastparquet = "^2024.11.0"
 shap = "^0.46.0"
+lime = "^0.2.0.1"
 
 
 [build-system]
