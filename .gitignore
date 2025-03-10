@@ -189,3 +189,5 @@ housing_tuning/
 3-MachineLearning/7-DeepLearning/2-CNN/Practica/seg_train/
 
 
+*.npz
+*.h5
