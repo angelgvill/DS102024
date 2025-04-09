@@ -193,3 +193,6 @@ housing_tuning/
 *.npz
 *.h5
 Presentaciones/
+
+*.parquet
+etl_example/output/nyc_taxi.db
