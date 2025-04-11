@@ -195,4 +195,4 @@ housing_tuning/
 Presentaciones/
 
 *.parquet
-etl_example/output/nyc_taxi.db
+PolarsPySpark/etl_example/output/nyc_taxi.db
